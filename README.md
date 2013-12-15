@@ -18,6 +18,5 @@ included, or to open an issue to debate something.
 
 ## License
 
-This Source Code Form is subject to the terms of the Mozilla Public License,
-v. 2.0. If a copy of the MPL was not distributed with this file, You can
-obtain one at http://mozilla.org/MPL/2.0/.
+To the extent possible under law, Ryan Freebern has waived all copyright and
+related or neighboring rights to this work. [CC0](http://creativecommons.org/publicdomain/zero/1.0/)

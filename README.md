@@ -4,10 +4,10 @@ A collection of storytelling archetypes with related metadata.
 
 * [Artifacts](https://raw.github.com/rfreebern/archetypes/master/artifact.json)
 * [Settings](https://raw.github.com/rfreebern/archetypes/master/setting.json)
+* [Characters](https://raw.github.com/rfreebern/archetypes/master/character.json)
 
 Still to come:
 
-* Characters
 * Events
 * ???
 

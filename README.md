@@ -11,6 +11,10 @@ Still to come:
 * Events
 * ???
 
+## See Also
+
+* [Corpora](https://github.com/dariusk/corpora), a wider-ranging collection of JSON lists.
+
 ## Contributing
 
 Feel free to add missing archetypes or metadata that you think should be
